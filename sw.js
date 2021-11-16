@@ -1,4 +1,4 @@
-const staticCacheName='tsite static';
+const staticCacheName='site static';
 const assets =[
     './index.html',
     './src/main.js',
